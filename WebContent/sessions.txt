@@ -1,0 +1,49 @@
+Monday/9:00/5/Pulp Fiction
+Monday/11:00/5/Forrest Gump
+Monday/13:00/6/The Shawshank Redemption
+Monday/15:00/6/Fight Club
+Monday/17:00/7/Pulp Fiction
+Monday/19:00/7/Forrest Gump
+Monday/21:00/7/Fight Club
+Tuesday/10:00/5/Pulp Fiction
+Tuesday/12:00/5/Forrest Gump
+Tuesday/14:00/6/The Shawshank Redemption
+Tuesday/16:00/6/Fight Club
+Tuesday/18:00/7/Pulp Fiction
+Tuesday/20:00/7/Forrest Gump
+Tuesday/22:00/7/Fight Club
+Wednesday/9:00/5/Pulp Fiction
+Wednesday/11:00/5/Forrest Gump
+Wednesday/13:00/6/The Shawshank Redemption
+Wednesday/15:00/6/Fight Club
+Wednesday/17:00/7/Pulp Fiction
+Wednesday/19:00/7/Forrest Gump
+Wednesday/21:00/7/Fight Club
+Thursday/10:00/5/Pulp Fiction
+Thursday/12:00/5/Forrest Gump
+Thursday/14:00/6/The Shawshank Redemption
+Thursday/16:00/6/Fight Club
+Thursday/18:00/7/Pulp Fiction
+Thursday/20:00/7/Forrest Gump
+Thursday/22:00/7/Fight Club
+Friday/9:00/5/Pulp Fiction
+Friday/11:00/5/Forrest Gump
+Friday/13:00/6/The Shawshank Redemption
+Friday/15:00/6/Fight Club
+Friday/17:00/7/Pulp Fiction
+Friday/19:00/7/Forrest Gump
+Friday/21:00/7/Fight Club
+Saturday/10:00/5/Pulp Fiction
+Saturday/12:00/5/Forrest Gump
+Saturday/14:00/6/The Shawshank Redemption
+Saturday/16:00/6/Fight Club
+Saturday/18:00/7/Pulp Fiction
+Saturday/20:00/7/Forrest Gump
+Saturday/22:00/7/Fight Club
+Sunday/9:00/5/Pulp Fiction
+Sunday/11:00/5/Forrest Gump
+Sunday/13:00/6/The Shawshank Redemption
+Sunday/15:00/6/Fight Club
+Sunday/17:00/7/Pulp Fiction
+Sunday/19:00/7/Forrest Gump
+Sunday/21:00/7/Fight Club
