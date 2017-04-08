@@ -9,3 +9,4 @@ Functionality:
 5.Cancel orders.
 
 Tested on Apache Tomcat 8. Annotations are used, thus there is no web.xml descriptor.
+War archive is in 'deploy' folder.
