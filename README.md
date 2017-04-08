@@ -3,6 +3,7 @@ Simple web application, imitates movie ticket ordering.
 
 Functionality:
 1.View the schedule.
+
 2.Select sessions by day, time, movie, or any combination.
 3.Order one ore more tickets.
 4.View order's information.
