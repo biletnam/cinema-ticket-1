@@ -15,3 +15,5 @@ Functionality:
 
 Written without use of any IDE. Tested on Apache Tomcat 8. Annotations are used, thus there is no web.xml descriptor.
 War archive is in 'deploy' folder.
+
+P.S. This is my first webapp so don't judge strictly. I know, code is awful, and I leave it here to keep in mind how I shouldn't write anymore :)
